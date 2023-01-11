@@ -1,0 +1,30 @@
+.message {
+  margin: 1.2rem;
+}
+
+button {
+  border: none;
+  color: #fff;
+  background-color: purple;
+  padding: 0.75rem 1rem;
+  margin-right: 0 1rem;
+  border-radius: 3px;
+}
+
+.form {
+  display: flex;
+  gap: 1.2rem;
+  flex-direction: column;
+  padding: 1.2rem;
+  background-color: #eee;
+  max-width: fit-content;
+}
+
+textarea {
+  margin-top: 0.5rem;
+  display: block;
+}
+
+.user-feedback div {
+  margin-bottom: 0.75rem;
+}
